@@ -51,19 +51,3 @@ Electric Systems
     PID_HYBRID_BATTERY_PERCENTAGE – Hybrid battery pack remaining life (%)
 
 Additional defines can be added to access other OBD-II PIDs.
-
-Directory Descriptions
-----------------------
-
-libraries - all Arduino libraries needed for OBD-II adapter and kits
-
-samples - several simple sketches for testing purpose
-
-nanologger - OBD-II data logger working with 128x64 monochrome OLED display (for Arduino Nano)
-
-megalogger - OBD-II and GPS data logger based on 320x240 TFT LCD display (for Arduino MEGA)
-
-tester - a testing sketch for OBD-II communication and capability
-
-utilites - useful utility source code for development
-
