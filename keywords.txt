@@ -39,6 +39,7 @@ readGyro	KEYWORD2
 sendQuery	KEYWORD2
 getResult	KEYWORD2
 isValidPID	KEYWORD2
+isMILOn	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
